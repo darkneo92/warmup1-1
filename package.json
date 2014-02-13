@@ -1,0 +1,33 @@
+{
+  "name": "hello-world",
+  "version": "0.0.0",
+  "description": "Hello World app",
+  "main": "Controller.js",
+
+  "dependencies": {
+    "express": "~3.1.2",
+    "jade": "~1.1.5",
+    "mysql": "~2.0.x",
+    "nodeunit": "~0.8.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mahi29/warmup1.git"
+  },
+
+  "devDependencies": {},
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "keywords": [
+    "example"
+  ],
+  "author": "Mahith",
+  "license": "ISC"
+}
